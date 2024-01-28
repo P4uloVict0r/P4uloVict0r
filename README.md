@@ -1,6 +1,6 @@
 ## Olá me chamo Paulo Victor, Prazer !!!!
 
-- ✔ Presentemente,Trabalhando com Pacote Office - Básico como ;  ( Jovem Aprendiz )
+- ✔ Presentemente,Trabalhando com Fonrt-end Web Desenvolver
 - 👜Busco Vagas!!!
 - 🌱Atualemnete estou estudando diversas linguagens como ;
 
