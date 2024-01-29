@@ -15,6 +15,9 @@
   
   ##
  
-<div> 
- paul0iveir1@gmail.com
-</div>
+ [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-oliveira-7a25b4298)
+ [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](paul0iveir1@gmail.com)
+
+##
+
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=P4uloVict0r&show_icons=true&theme=dracula)
