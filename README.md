@@ -1,6 +1,6 @@
 ## Olá me chamo Paulo Victor, Prazer !!!!
 
-- ✔ Presentemente,Trabalhando com Fonrt-end Web Desenvolver
+- ✔ Presentemente,Trabalhando com Front-end Web Desenvolver
 - 👜Busco Vagas!!!
 - 🌱Atualemnete estou estudando diversas linguagens como ;
 
